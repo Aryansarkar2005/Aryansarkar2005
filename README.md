@@ -44,9 +44,11 @@
 
 ---
 
+---
+
 ## 📬 Let's Talk Architecture
 
-* [cite_start]💼 **LinkedIn:** [linkedin.com/in/aryan-sarkar](https://linkedin.com) [cite: 2]
-* [cite_start]📧 **Email:** [aryansarkar9400@gmail.com](mailto:aryansarkar9400@gmail.com) [cite: 2]
+* 💼 **LinkedIn:** [linkedin.com/in/aryan-sarkar](https://linkedin.com)
+* 📧 **Email:** [aryansarkar9400@gmail.com](mailto:aryansarkar9400@gmail.com)
 
 *"Moving local repositories into active development, one stable commit at a time."*
