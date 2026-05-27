@@ -1,7 +1,7 @@
 # Hi, I'm Aryan Sarkar ⚡
 
 ### **B.Tech Artificial Intelligence & Data Science Student | Backend & Systems Engineer**
-> An aggressive, execution-first developer focused on building production-ready backend systems, optimizing high-performance relational schemas, and shipping end-to-end Machine Learning pipelines. I bridge the gap between complex data logic and scalable web architecture.
+> An execution-first, impact-driven developer focused on building production-ready backend systems, optimizing high-performance relational schemas, and shipping end-to-end Machine Learning pipelines. I bridge the gap between complex data logic and scalable web architecture.
 
 ---
 
